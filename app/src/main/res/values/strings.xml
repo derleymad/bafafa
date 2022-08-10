@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">bafafa</string>
-    <string name="login_txt_footer">Não possui uma conta? <b>Registre-se</b></string>
+    <string name="login_txt_footer">Não possui uma conta? <b>Cadastre-se</b></string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="or">OU</string>
 </resources>
